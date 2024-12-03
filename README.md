@@ -54,4 +54,4 @@ To run any of the Python programs in this repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/python-dsa-programs.git
+   git clone https://github.com/shriniketan07/python-DSA.git
